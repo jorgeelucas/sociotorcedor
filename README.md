@@ -7,6 +7,9 @@
 ### Instalação
 
 - git clone 
+- mvn test
+- mvn clean install
+- mvn spring-boot:run
 
 ## Api-Socio_torcedor
 - **Swagger:** http://localhost:8080/swagger-ui.html
